@@ -8,3 +8,4 @@ A fun ASCII drawing
 Ok så
 igen igen
 ...
+rebase = true
